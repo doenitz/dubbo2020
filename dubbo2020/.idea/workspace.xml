@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3da60b7-5312-46eb-9cbc-947296bd94ae" name="Default Changelist" comment="" />
+    <list default="true" id="d3da60b7-5312-46eb-9cbc-947296bd94ae" name="Default Changelist" comment="dubbo框架">
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/src/main/java/com/yin/springcloud/entity/CommonResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/src/main/java/com/yin/springcloud/entity/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/classes/com/yin/springcloud/entity/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/classes/com/yin/springcloud/entity/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/cloud-api-common-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-api-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/yin/springcloud/OrderHystrixMain80.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/yin/springcloud/controller/OrderHystrixController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/yin/springcloud/service/PaymentHystrixService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/target/classes/META-INF/cloud-consumer-feign-hystrix-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/target/classes/com/yin/springcloud/OrderHystrixMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/target/classes/com/yin/springcloud/controller/OrderHystrixController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-hystrix-order80/target/classes/com/yin/springcloud/service/PaymentHystrixService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/src/main/java/com/yin/springcloud/OrderFeignMain80.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/src/main/java/com/yin/springcloud/controller/OrderFeignController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/src/main/java/com/yin/springcloud/service/PaymentFeignService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/target/classes/META-INF/cloud-consumer-feign-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/target/classes/com/yin/springcloud/OrderFeignMain80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/target/classes/com/yin/springcloud/controller/OrderFeignController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-feign-order80/target/classes/com/yin/springcloud/service/PaymentFeignService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/src/main/java/com/yin/springcloud/OrderMain8002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/src/main/java/com/yin/springcloud/config/ApplicationContextConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/src/main/java/com/yin/springcloud/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/target/classes/META-INF/cloud-consumer-order8002.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/target/classes/com/yin/springcloud/OrderMain8002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/target/classes/com/yin/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-consumer-order8002/target/classes/com/yin/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7001/src/main/java/com/yin/springcloud/EurekaServerMain7001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7001/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7001/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7001/target/classes/com/yin/springcloud/EurekaServerMain7001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/src/main/java/com/yin/springcloud/EurekaServerMain7002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/target/classes/META-INF/cloud-eureka-server7002.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-eureka-server7002/target/classes/com/yin/springcloud/EurekaServerMain7002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/src/main/java/com/yin/cloud/GatewatMain9527.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-gateway-gateway9527/target/classes/com/yin/cloud/GatewatMain9527.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/java/com/yin/springcloud/PaymentMain8001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/java/com/yin/springcloud/controller/PaymentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/java/com/yin/springcloud/dao/PaymentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/java/com/yin/springcloud/service/Impl/PaymentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/java/com/yin/springcloud/service/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/META-INF/cloud-provider-8001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/com/yin/springcloud/PaymentMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/com/yin/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/com/yin/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/com/yin/springcloud/service/Impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8001/target/classes/com/yin/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/java/com/yin/springcloud/PaymentMain8021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/java/com/yin/springcloud/controller/PaymentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/java/com/yin/springcloud/dao/PaymentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/java/com/yin/springcloud/service/Impl/PaymentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/java/com/yin/springcloud/service/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/META-INF/cloud-provider-8021.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/com/yin/springcloud/PaymentMain8021.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/com/yin/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/com/yin/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/com/yin/springcloud/service/Impl/PaymentServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-8021/target/classes/com/yin/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/src/main/java/com/yin/springcloud/PaymentHystrixMain8001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/src/main/java/com/yin/springcloud/controller/PaymentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/src/main/java/com/yin/springcloud/service/PaymentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/target/classes/META-INF/cloud-provider-hystrix-payment8001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/target/classes/com/yin/springcloud/PaymentHystrixMain8001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/target/classes/com/yin/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/cloud-provider-hystrix-payment8001/target/classes/com/yin/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud2020/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/filter.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/dubbo-api-common/target/" />
@@ -27,20 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/MyDubboConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/filter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -69,6 +167,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,7 +292,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/cloud/cloud2020" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -253,7 +356,7 @@
       <workItem from="1607934390446" duration="18668000" />
       <workItem from="1608184351919" duration="1002000" />
       <workItem from="1608185380157" duration="1029000" />
-      <workItem from="1608186494538" duration="487000" />
+      <workItem from="1608186494538" duration="4281000" />
     </task>
     <task id="LOCAL-00001" summary="dubbo框架">
       <created>1608186639080</created>
@@ -262,11 +365,25 @@
       <option name="project" value="LOCAL" />
       <updated>1608186639081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dubbo框架">
+      <created>1608187212438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608187212438</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dubbo框架">
+      <created>1608187837563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608187837563</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21186000" />
+    <option name="totallyTimeSpent" value="24980000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -288,13 +405,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3286908" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32962447" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286908" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32729805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,7 +428,36 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="dubbo框架" />
     <option name="LAST_COMMIT_MESSAGE" value="dubbo框架" />
   </component>
@@ -449,17 +595,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/MyDubboConfig.java">
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/filter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="175">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/filter.java">
+    <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/yin/config/MyDubboConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="300">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
         </state>
       </provider>
     </entry>
