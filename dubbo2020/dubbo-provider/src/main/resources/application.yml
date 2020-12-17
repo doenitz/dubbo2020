@@ -7,9 +7,6 @@ dubbo:
   protocol:
     name: dubbo
     port: 20881
-#  provider:
-#    token: 123456
-#    filter: AuthorizationFilter
 
 #  monitor:
 #    protocol: registry
